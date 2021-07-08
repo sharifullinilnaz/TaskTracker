@@ -1,7 +1,11 @@
 # TaskTracker
+
 TaskTracker web-api created using ASP.NET Core
-###Used packages: 
+
+###Used packages:
+
                (TaskTracker):
+               
                - Microsoft.EntityFrameworkCore v5.0.7;
                - Microsoft.EntityFrameworkCore.Proxies v5.0.7;
                - Microsoft.VisualStudio.Azure.Containers.Tools.Targets v 1.10.14;
@@ -9,6 +13,7 @@ TaskTracker web-api created using ASP.NET Core
                - Swashbuckle.AspNetCore v6.1.4;
                
                (TaskTrackerTests):
+               
                - Microsoft.NET.Test.Sdk v16.9.4;
                - Moq v4.16.1;
                - xunit v2.4.1;
