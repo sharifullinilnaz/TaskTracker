@@ -2,7 +2,7 @@
 
 TaskTracker web-api created using ASP.NET Core
 
-##Used packages:
+### Used packages:
 
                (TaskTracker):
                
